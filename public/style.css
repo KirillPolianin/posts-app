@@ -1,1 +1,7 @@
+form a {
+  margin-left: 10px;
+}
 
+div > a {
+  margin-top: 10px;
+}
